@@ -10,10 +10,10 @@
 
 - [x] [Memulai Pemrograman Dengan Dart](./docs/dart.pdf) | [Link](https://www.dicoding.com/certificates/KEXL38N5RPG2) | 24 Agustus
 - [x] [Belajar Prinsip Pemrograman SOLID](./docs/solid.pdf) | [Link](https://www.dicoding.com/certificates/GRX5KQMO3Z0M) | 24 Agustus
+- [x] [Memulai Pemrograman Dengan Kotlin](./docs/kotlin.pdf) | [Link](https://www.dicoding.com/certificates/KEXL38JY0PG2) | 25 Agustus
 
 ## Belum
 
-- Memulai Pemrograman Dengan Kotlin
 - Belajar Membuat Aplikasi Android untuk Pemula
 - Belajar Fundamental Aplikasi Android
 - Belajar Membuat Aplikasi Flutter untuk Pemula
