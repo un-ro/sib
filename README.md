@@ -1,5 +1,11 @@
 # Hasil Studi Independen: Dicoding
 
+## Dashboard
+- Completed Class (Updated when mandatory class is completed)
+![Milestone](https://progress-bar.dev/80/?title=DONE)
+- Semester Time (Updated each Week)
+![Progress](https://progress-bar.dev/20)
+
 ## Minggu 01
 
 - [x] [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](./docs/01-01.pdf) | [Link](https://www.dicoding.com/certificates/07Z65W702XQR) | 23 Agustus
@@ -19,8 +25,8 @@
 - [x] [Belajar Prinsip Pemrograman SOLID](./docs/solid.pdf) | [Link](https://www.dicoding.com/certificates/GRX5KQMO3Z0M) | 24 Agustus
 - [x] [Belajar Membuat Aplikasi Flutter untuk Pemula](./docs/flutterPemula.pdf) | [Link](https://www.dicoding.com/certificates/2VX32OE0VPYQ) | 25 Agustus
 - [x] [Belajar Membuat Aplikasi Android untuk Pemula](./docs/androidPemula.pdf) | [Link](https://www.dicoding.com/certificates/JLX1375V6P72) | 31 Agustus
+- [x] [Belajar Fundamental Aplikasi Android](./docs/androidfundamental.pdf) | [Link](https://www.dicoding.com/certificates/1OP8L40D2ZQK) | 9 September
 
 ## Belum
 
-- Belajar Fundamental Aplikasi Android
 - Belajar Fundamental Aplikasi Flutter
