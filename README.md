@@ -2,7 +2,7 @@
 
 ## Dashboard
 - Completed Class (Updated when mandatory class is completed)
-![Milestone](https://progress-bar.dev/80/?title=DONE)
+![Milestone](https://progress-bar.dev/90)
 - Semester Time (Updated each Week)
 ![Progress](https://progress-bar.dev/20)
 
