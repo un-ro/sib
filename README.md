@@ -10,7 +10,7 @@
 
 - [x] [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](./docs/01-01.pdf) | [Link](https://www.dicoding.com/certificates/07Z65W702XQR) | 23 Agustus
 - [x] [Belajar Dasar Git dengan GitHub](./docs/01-02.pdf) | [Link](https://www.dicoding.com/certificates/ERZR4WDGMZYV) | 24 Agustus
-- [ ] Pengenalan ke Logika Pemrograman (Programming Logic 101) | 16 September
+- [x] [Pengenalan ke Logika Pemrograman (Programming Logic 101)](./docs/logika.pdf) | [Link](https://www.dicoding.com/certificates/07Z654MDRXQR) | 16 September
 
 ## Minggu 02
 
