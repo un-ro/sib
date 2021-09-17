@@ -25,10 +25,13 @@
 - [x] [Belajar Prinsip Pemrograman SOLID](./docs/solid.pdf) | [Link](https://www.dicoding.com/certificates/GRX5KQMO3Z0M) | 24 Agustus
 - [x] [Belajar Membuat Aplikasi Android untuk Pemula](./docs/androidPemula.pdf) | [Link](https://www.dicoding.com/certificates/JLX1375V6P72) | 31 Agustus
 
+## Minggu 05
+
+- [x] [Belajar Fundamental Aplikasi Android](./docs/androidfundamental.pdf) | [Link](https://www.dicoding.com/certificates/1OP8L40D2ZQK) | 9 September
+
 ## Sudah | Belum ada token
 
 - [x] [Belajar Membuat Aplikasi Flutter untuk Pemula](./docs/flutterPemula.pdf) | [Link](https://www.dicoding.com/certificates/2VX32OE0VPYQ) | 25 Agustus
-- [x] [Belajar Fundamental Aplikasi Android](./docs/androidfundamental.pdf) | [Link](https://www.dicoding.com/certificates/1OP8L40D2ZQK) | 9 September
 
 ## Belum
 
