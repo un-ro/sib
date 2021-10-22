@@ -4,7 +4,7 @@
 - Completed Class (Updated when mandatory class is completed)
 ![Milestone](https://progress-bar.dev/90)
 - Semester Time (Updated each Week)
-![Progress](https://progress-bar.dev/27)
+![Progress](https://progress-bar.dev/58)
 
 ## Minggu 01
 
@@ -29,9 +29,11 @@
 
 - [x] [Belajar Fundamental Aplikasi Android](./docs/androidfundamental.pdf) | [Link](https://www.dicoding.com/certificates/1OP8L40D2ZQK) | 9 September
 
-## Sudah | Belum ada token
+## Minggu 10
 
 - [x] [Belajar Membuat Aplikasi Flutter untuk Pemula](./docs/flutterPemula.pdf) | [Link](https://www.dicoding.com/certificates/2VX32OE0VPYQ) | 25 Agustus
+
+## Sudah | Belum ada token
 
 ## Belum
 
