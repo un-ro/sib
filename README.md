@@ -33,8 +33,7 @@
 
 - [x] [Belajar Membuat Aplikasi Flutter untuk Pemula](./docs/flutterPemula.pdf) | [Link](https://www.dicoding.com/certificates/2VX32OE0VPYQ) | 25 Agustus
 
-## Sudah | Belum ada token
+## Minggu 11
 
-## Belum
-
-- Belajar Fundamental Aplikasi Flutter
+- [ ] [Belajar Fundamental Aplikasi Flutter]()
+- [x] [Meniti Karier sebagai Software Developer](./docs/mkssd.pdf) | [Link](https://www.dicoding.com/certificates/JLX13VED5P72) | 5 November 
