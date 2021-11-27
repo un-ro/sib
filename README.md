@@ -2,9 +2,7 @@
 
 ## Dashboard
 - Completed Class (Updated when mandatory class is completed)
-![Milestone](https://progress-bar.dev/90)
-- Semester Time (Updated each Week)
-![Progress](https://progress-bar.dev/58)
+![Milestone](https://progress-bar.dev/100)
 
 ## Minggu 01
 
@@ -35,5 +33,5 @@
 
 ## Minggu 11
 
-- [ ] [Belajar Fundamental Aplikasi Flutter]()
 - [x] [Meniti Karier sebagai Software Developer](./docs/mkssd.pdf) | [Link](https://www.dicoding.com/certificates/JLX13VED5P72) | 5 November 
+- [x] [Belajar Fundamental Aplikasi Flutter](./docs/flutterFundamental.pdf) | [Link](https://www.dicoding.com/certificates/KEXL3M67YPG2) | 27 November
